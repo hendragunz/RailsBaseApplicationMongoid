@@ -19,6 +19,6 @@ pickle-email-*.html
 /public/system
 /public/assets
 
-/config/baseapp_setting.yml.example
-/config/database.yml.example
+/config/baseapp_setting.yml
+/config/database.yml
 /db/schema.rb
