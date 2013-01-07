@@ -55,7 +55,6 @@ end
 
 
 group :development do
-  gem 'debugger'
   gem 'thin'
   gem 'ffaker'
 end
