@@ -21,4 +21,5 @@ pickle-email-*.html
 
 /config/baseapp_setting.yml
 /config/database.yml
+/config/mongoid.yml
 /db/schema.rb
